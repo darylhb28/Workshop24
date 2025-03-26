@@ -40,3 +40,21 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.puppy:hover{
+  text-decoration: underline;
+  color:  black;
+  font-weight: bold;
+}
+
+.featured {
+  background-color: black;
+  color: white;
+  list-style-position: inside;
+  box-shadow: 20px 20px 20px 5px rgba(0, 0, 0, 0.3);
+  padding: 20px;
+}
